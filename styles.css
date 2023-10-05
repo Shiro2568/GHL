@@ -81,6 +81,7 @@ h2 {
     font-family: 'AlinaFont', sans-serif; /* Шрифтовое семейство */
     text-align: center; /* Центрирование текста */
     transform-origin: center; /* Точка применения трансформации - центр блока */
+    z-index: 10000;
 }
 
 .photo-frame {
@@ -177,7 +178,6 @@ h2 {
     margin-top: 30px;
     text-shadow: 0 0 20px #980002, 0 0 30px #980002, 0 0 40px #980002;
     animation: glow 2s infinite alternate;
-    z-index: 10000;
 }
 
 @keyframes glow {
