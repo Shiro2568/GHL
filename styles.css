@@ -180,6 +180,12 @@ h2 {
     box-shadow: 0 0 20px rgba(0, 255, 255, 0.8);
     border-color: rgba(0, 255, 255, 1);
 }
+
+.avatar-container.boss-3:hover .avatar {
+    transform: scale(0.9);
+    box-shadow: 0 0 20px rgba(255,243,128, 0.8);
+    border-color: rgba(255,243,128, 1);
+}
 .glow-text {
     font-size: 85px;
     font-family: 'GhoulFont', sans-serif;
