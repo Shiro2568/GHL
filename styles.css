@@ -212,8 +212,8 @@ h2 {
 
 
 .discord-icon {
-    width: 100px; /* Установите желаемую ширину и высоту иконки */
-    height: 100px;
+    width: 120px; /* Установите желаемую ширину и высоту иконки */
+    height: 120px;
     border-radius: 50%; /* Округлить углы, чтобы сделать круглую форму */
     border: 2px solid #7289da; /* Цвет и толщина обводки */
     transition: transform 0.3s, box-shadow 0.3s, border-color 0.3s;
